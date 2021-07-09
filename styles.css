@@ -59,6 +59,19 @@ footer {
   opacity: 0.5;
 }
 
+
+@media screen and (max-width: 1240px) {
+  .j {
+    display: block;
+    text-align: center;
+    margin: auto;
+  }
+  .k {
+    display: inline-block;
+  }
+}
+
+
 .red {
   color: red;
 }
